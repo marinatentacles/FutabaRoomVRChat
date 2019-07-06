@@ -1,0 +1,794 @@
+fileFormatVersion: 2
+guid: 3f5e0dba6eb5a374cbdc6f2ef8447457
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ??????????????????01
+    100002: ??????????????????02
+    100004: ??????????????????02(1)
+    100006: ??????????????????03
+    100008: ??????????????????04
+    100010: ??????????????????05
+    100012: ??????????????????06
+    100014: ??????????????????07
+    100016: ??????????????????08
+    100018: ??????????????????10
+    100020: ??????????????????3783
+    100022: ??????????????????742
+    100024: ??????????????????746
+    100026: ??????????????????747
+    100028: ??????????????????748
+    100030: Armature
+    100032: Bbb
+    100034: Body
+    100036: Box01
+    100038: Box02
+    100040: Cylinder01
+    100042: Cylinder04
+    100044: Cylinder05
+    100046: Footmat01
+    100048: Gomi_Box_B02
+    100050: //RootNode
+    100052: Hat_Black
+    100054: Plane02
+    100056: Root_Ground_Attached_Shape_Cube_#2_Root_Ground
+    100058: Root_Ground_Attached_Shape_Cube_#2_Root_Groundduplicatenam_001
+    100060: Root_Ground_Attached_Shape_Cube_#2_Root_Groundduplicatename_0
+    100062: Sayuri
+    100064: 5_+Material3768(1).Material3768(1)_1_0_0
+    100066: '5_+Shape-Cube #2.Mesh1_0.1_0_0'
+    100068: 5_f002007umbrellaa_1_0_0
+    100070: 5_f009004towel01_1_0_0
+    100072: 5_f012014art01_1_0_0
+    100074: 5_f012014book01_1_0_0
+    100076: 5_f012014door01_1_0_0
+    100078: 5_f012014door01gr_1_0_0
+    100080: 5_f012014door02_1_0_0
+    100082: 5_f012014door03_1_0_0
+    100084: 5_f012014door03gr_1_0_0
+    100086: 5_f012014flog01_1_0_0
+    100088: 5_f012014floor01(1)_1_0_0
+    100090: 5_f012014floor01_1_0_0
+    100092: 5_f012014floor02_1_0_0
+    100094: 5_f012014floor02sh(1)_1_0_0
+    100096: 5_f012014floor02sh_1_0_0
+    100098: 5_f012014floor03_1_0_0
+    100100: 5_f012014fusuma01_1_0_0
+    100102: 5_f012014fusuma02_1_0_0
+    100104: 5_f012014glass01_1_0_0
+    100106: 5_f012014hat01(1)_1_0_0
+    100108: 5_f012014hat01_1_0_0
+    100110: 5_f012014pillar01_1_0_0
+    100112: 5_f012014roof01_1_0_0
+    100114: 5_f012014shelf01_1_0_0
+    100116: 5_f012014shelf01c_1_0_0
+    100118: 5_f012014shelf01sh_1_0_0
+    100120: 5_f012014slipper01(1)_1_0_0
+    100122: 5_f012014slipper01(2)_1_0_0
+    100124: 5_f012014slipper01(3)_1_0_0
+    100126: 5_f012014slipper01_1_0_0
+    100128: 5_f012014stairs01_1_0_0
+    100130: 5_f012014stairs01sh_1_0_0
+    100132: 5_f012014swich01(1)_1_0_0
+    100134: 5_f012014swich01(2)_1_0_0
+    100136: 5_f012014swich01_1_0_0
+    100138: 5_f012014torch01_1_0_0
+    100140: 5_f012014umbrella02_1_0_0
+    100142: 5_f012014umbrella03_1_0_0
+    100144: 5_f012014umbrella_1_0_0
+    100146: 5_f012014wall01_1_0_0
+    100148: 7_f012014light012_1_0_0
+    100150: 7_f012014light013_1_0_0
+    100152: 7_f012014light01_1_0_0
+    100154: 5_f012014shelf01_1_0_0.001
+    400000: ??????????????????01
+    400002: ??????????????????02
+    400004: ??????????????????02(1)
+    400006: ??????????????????03
+    400008: ??????????????????04
+    400010: ??????????????????05
+    400012: ??????????????????06
+    400014: ??????????????????07
+    400016: ??????????????????08
+    400018: ??????????????????10
+    400020: ??????????????????3783
+    400022: ??????????????????742
+    400024: ??????????????????746
+    400026: ??????????????????747
+    400028: ??????????????????748
+    400030: Armature
+    400032: Bbb
+    400034: Body
+    400036: Box01
+    400038: Box02
+    400040: Cylinder01
+    400042: Cylinder04
+    400044: Cylinder05
+    400046: Footmat01
+    400048: Gomi_Box_B02
+    400050: //RootNode
+    400052: Hat_Black
+    400054: Plane02
+    400056: Root_Ground_Attached_Shape_Cube_#2_Root_Ground
+    400058: Root_Ground_Attached_Shape_Cube_#2_Root_Groundduplicatenam_001
+    400060: Root_Ground_Attached_Shape_Cube_#2_Root_Groundduplicatename_0
+    400062: Sayuri
+    400064: 5_+Material3768(1).Material3768(1)_1_0_0
+    400066: '5_+Shape-Cube #2.Mesh1_0.1_0_0'
+    400068: 5_f002007umbrellaa_1_0_0
+    400070: 5_f009004towel01_1_0_0
+    400072: 5_f012014art01_1_0_0
+    400074: 5_f012014book01_1_0_0
+    400076: 5_f012014door01_1_0_0
+    400078: 5_f012014door01gr_1_0_0
+    400080: 5_f012014door02_1_0_0
+    400082: 5_f012014door03_1_0_0
+    400084: 5_f012014door03gr_1_0_0
+    400086: 5_f012014flog01_1_0_0
+    400088: 5_f012014floor01(1)_1_0_0
+    400090: 5_f012014floor01_1_0_0
+    400092: 5_f012014floor02_1_0_0
+    400094: 5_f012014floor02sh(1)_1_0_0
+    400096: 5_f012014floor02sh_1_0_0
+    400098: 5_f012014floor03_1_0_0
+    400100: 5_f012014fusuma01_1_0_0
+    400102: 5_f012014fusuma02_1_0_0
+    400104: 5_f012014glass01_1_0_0
+    400106: 5_f012014hat01(1)_1_0_0
+    400108: 5_f012014hat01_1_0_0
+    400110: 5_f012014pillar01_1_0_0
+    400112: 5_f012014roof01_1_0_0
+    400114: 5_f012014shelf01_1_0_0
+    400116: 5_f012014shelf01c_1_0_0
+    400118: 5_f012014shelf01sh_1_0_0
+    400120: 5_f012014slipper01(1)_1_0_0
+    400122: 5_f012014slipper01(2)_1_0_0
+    400124: 5_f012014slipper01(3)_1_0_0
+    400126: 5_f012014slipper01_1_0_0
+    400128: 5_f012014stairs01_1_0_0
+    400130: 5_f012014stairs01sh_1_0_0
+    400132: 5_f012014swich01(1)_1_0_0
+    400134: 5_f012014swich01(2)_1_0_0
+    400136: 5_f012014swich01_1_0_0
+    400138: 5_f012014torch01_1_0_0
+    400140: 5_f012014umbrella02_1_0_0
+    400142: 5_f012014umbrella03_1_0_0
+    400144: 5_f012014umbrella_1_0_0
+    400146: 5_f012014wall01_1_0_0
+    400148: 7_f012014light012_1_0_0
+    400150: 7_f012014light013_1_0_0
+    400152: 7_f012014light01_1_0_0
+    400154: 5_f012014shelf01_1_0_0.001
+    2100000: 5_+Material3768(1).Material3768(1)_1_0_0
+    2100002: 7_f012014light01_1_0_0
+    2100004: 7_f012014light013_1_0_0
+    2100006: 7_f012014light012_1_0_0
+    2100008: 5_f012014wall01_1_0_0
+    2100010: 5_f012014umbrella_1_0_0
+    2100012: 5_f012014umbrella03_1_0_0
+    2100014: 5_f012014umbrella02_1_0_0
+    2100016: 5_f012014torch01_1_0_0
+    2100018: 5_f012014swich01_1_0_0
+    2100020: 5_f012014swich01(2)_1_0_0
+    2100022: 5_f012014swich01(1)_1_0_0
+    2100024: 5_f012014stairs01sh_1_0_0
+    2100026: 5_f012014stairs01_1_0_0
+    2100028: 5_f012014slipper01_1_0_0
+    2100030: 5_f012014slipper01(3)_1_0_0
+    2100032: 5_f012014slipper01(2)_1_0_0
+    2100034: 5_f012014slipper01(1)_1_0_0
+    2100036: 5_f012014shelf01sh_1_0_0
+    2100038: 5_f012014shelf01c_1_0_0
+    2100040: 5_f012014shelf01_1_0_0
+    2100042: 5_f012014roof01_1_0_0
+    2100044: 5_f012014pillar01_1_0_0
+    2100046: 5_f012014hat01_1_0_0
+    2100048: 5_f012014hat01(1)_1_0_0
+    2100050: 5_f012014glass01_1_0_0
+    2100052: 5_f012014fusuma02_1_0_0
+    2100054: 5_f012014fusuma01_1_0_0
+    2100056: 5_f012014floor03_1_0_0
+    2100058: 5_f012014floor02sh_1_0_0
+    2100060: 5_f012014floor02sh(1)_1_0_0
+    2100062: 5_f012014floor02_1_0_0
+    2100064: 5_f012014floor01_1_0_0
+    2100066: 5_f012014floor01(1)_1_0_0
+    2100068: 5_f012014flog01_1_0_0
+    2100070: 5_f012014door03gr_1_0_0
+    2100072: 5_f012014door03_1_0_0
+    2100074: 5_f012014door02_1_0_0
+    2100076: 5_f012014door01gr_1_0_0
+    2100078: 5_f012014door01_1_0_0
+    2100080: 5_f012014book01_1_0_0
+    2100082: 5_f012014art01_1_0_0
+    2100084: 5_f009004towel01_1_0_0
+    2100086: 5_f002007umbrellaa_1_0_0
+    2100088: '5_+Shape-Cube #2.Mesh1_0.1_0_0'
+    2300000: Body
+    2300002: 5_+Material3768(1).Material3768(1)_1_0_0
+    2300004: '5_+Shape-Cube #2.Mesh1_0.1_0_0'
+    2300006: 5_f002007umbrellaa_1_0_0
+    2300008: 5_f009004towel01_1_0_0
+    2300010: 5_f012014art01_1_0_0
+    2300012: 5_f012014book01_1_0_0
+    2300014: 5_f012014door01_1_0_0
+    2300016: 5_f012014door01gr_1_0_0
+    2300018: 5_f012014door02_1_0_0
+    2300020: 5_f012014door03_1_0_0
+    2300022: 5_f012014door03gr_1_0_0
+    2300024: 5_f012014flog01_1_0_0
+    2300026: 5_f012014floor01(1)_1_0_0
+    2300028: 5_f012014floor01_1_0_0
+    2300030: 5_f012014floor02_1_0_0
+    2300032: 5_f012014floor02sh(1)_1_0_0
+    2300034: 5_f012014floor02sh_1_0_0
+    2300036: 5_f012014floor03_1_0_0
+    2300038: 5_f012014fusuma01_1_0_0
+    2300040: 5_f012014fusuma02_1_0_0
+    2300042: 5_f012014glass01_1_0_0
+    2300044: 5_f012014hat01(1)_1_0_0
+    2300046: 5_f012014hat01_1_0_0
+    2300048: 5_f012014pillar01_1_0_0
+    2300050: 5_f012014roof01_1_0_0
+    2300052: 5_f012014shelf01_1_0_0
+    2300054: 5_f012014shelf01c_1_0_0
+    2300056: 5_f012014shelf01sh_1_0_0
+    2300058: 5_f012014slipper01(1)_1_0_0
+    2300060: 5_f012014slipper01(2)_1_0_0
+    2300062: 5_f012014slipper01(3)_1_0_0
+    2300064: 5_f012014slipper01_1_0_0
+    2300066: 5_f012014stairs01_1_0_0
+    2300068: 5_f012014stairs01sh_1_0_0
+    2300070: 5_f012014swich01(1)_1_0_0
+    2300072: 5_f012014swich01(2)_1_0_0
+    2300074: 5_f012014swich01_1_0_0
+    2300076: 5_f012014torch01_1_0_0
+    2300078: 5_f012014umbrella02_1_0_0
+    2300080: 5_f012014umbrella03_1_0_0
+    2300082: 5_f012014umbrella_1_0_0
+    2300084: 5_f012014wall01_1_0_0
+    2300086: 7_f012014light012_1_0_0
+    2300088: 7_f012014light013_1_0_0
+    2300090: 7_f012014light01_1_0_0
+    2300092: 5_f012014shelf01_1_0_0.001
+    3300000: Body
+    3300002: 5_+Material3768(1).Material3768(1)_1_0_0
+    3300004: '5_+Shape-Cube #2.Mesh1_0.1_0_0'
+    3300006: 5_f002007umbrellaa_1_0_0
+    3300008: 5_f009004towel01_1_0_0
+    3300010: 5_f012014art01_1_0_0
+    3300012: 5_f012014book01_1_0_0
+    3300014: 5_f012014door01_1_0_0
+    3300016: 5_f012014door01gr_1_0_0
+    3300018: 5_f012014door02_1_0_0
+    3300020: 5_f012014door03_1_0_0
+    3300022: 5_f012014door03gr_1_0_0
+    3300024: 5_f012014flog01_1_0_0
+    3300026: 5_f012014floor01(1)_1_0_0
+    3300028: 5_f012014floor01_1_0_0
+    3300030: 5_f012014floor02_1_0_0
+    3300032: 5_f012014floor02sh(1)_1_0_0
+    3300034: 5_f012014floor02sh_1_0_0
+    3300036: 5_f012014floor03_1_0_0
+    3300038: 5_f012014fusuma01_1_0_0
+    3300040: 5_f012014fusuma02_1_0_0
+    3300042: 5_f012014glass01_1_0_0
+    3300044: 5_f012014hat01(1)_1_0_0
+    3300046: 5_f012014hat01_1_0_0
+    3300048: 5_f012014pillar01_1_0_0
+    3300050: 5_f012014roof01_1_0_0
+    3300052: 5_f012014shelf01_1_0_0
+    3300054: 5_f012014shelf01c_1_0_0
+    3300056: 5_f012014shelf01sh_1_0_0
+    3300058: 5_f012014slipper01(1)_1_0_0
+    3300060: 5_f012014slipper01(2)_1_0_0
+    3300062: 5_f012014slipper01(3)_1_0_0
+    3300064: 5_f012014slipper01_1_0_0
+    3300066: 5_f012014stairs01_1_0_0
+    3300068: 5_f012014stairs01sh_1_0_0
+    3300070: 5_f012014swich01(1)_1_0_0
+    3300072: 5_f012014swich01(2)_1_0_0
+    3300074: 5_f012014swich01_1_0_0
+    3300076: 5_f012014torch01_1_0_0
+    3300078: 5_f012014umbrella02_1_0_0
+    3300080: 5_f012014umbrella03_1_0_0
+    3300082: 5_f012014umbrella_1_0_0
+    3300084: 5_f012014wall01_1_0_0
+    3300086: 7_f012014light012_1_0_0
+    3300088: 7_f012014light013_1_0_0
+    3300090: 7_f012014light01_1_0_0
+    3300092: 5_f012014shelf01_1_0_0.001
+    4300000: Body
+    4300002: 5_f002007umbrellaa_1_0_0
+    4300004: 5_f009004towel01_1_0_0
+    4300006: 5_f012014art01_1_0_0
+    4300008: 5_f012014book01_1_0_0
+    4300010: 5_f012014door01_1_0_0
+    4300012: 5_f012014door01gr_1_0_0
+    4300014: 5_f012014door02_1_0_0
+    4300016: 5_f012014door03_1_0_0
+    4300018: 5_f012014door03gr_1_0_0
+    4300020: 5_f012014flog01_1_0_0
+    4300022: 5_f012014floor01(1)_1_0_0
+    4300024: 5_f012014floor01_1_0_0
+    4300026: 5_f012014floor02_1_0_0
+    4300028: 5_f012014floor02sh(1)_1_0_0
+    4300030: 5_f012014floor02sh_1_0_0
+    4300032: 5_f012014floor03_1_0_0
+    4300034: 5_f012014fusuma01_1_0_0
+    4300036: 5_f012014fusuma02_1_0_0
+    4300038: 5_f012014glass01_1_0_0
+    4300040: 5_f012014hat01(1)_1_0_0
+    4300042: 5_f012014hat01_1_0_0
+    4300044: 5_f012014pillar01_1_0_0
+    4300046: 5_f012014roof01_1_0_0
+    4300048: 5_f012014shelf01_1_0_0
+    4300050: 5_f012014shelf01c_1_0_0
+    4300052: 5_f012014shelf01sh_1_0_0
+    4300054: 5_f012014slipper01(1)_1_0_0
+    4300056: 5_f012014slipper01(2)_1_0_0
+    4300058: 5_f012014slipper01(3)_1_0_0
+    4300060: 5_f012014slipper01_1_0_0
+    4300062: 5_f012014stairs01_1_0_0
+    4300064: 5_f012014stairs01sh_1_0_0
+    4300066: 5_f012014swich01(1)_1_0_0
+    4300068: 5_f012014swich01(2)_1_0_0
+    4300070: 5_f012014swich01_1_0_0
+    4300072: 5_f012014torch01_1_0_0
+    4300074: 5_f012014umbrella02_1_0_0
+    4300076: 5_f012014umbrella03_1_0_0
+    4300078: 5_f012014umbrella_1_0_0
+    4300080: 5_f012014wall01_1_0_0
+    4300082: 7_f012014light012_1_0_0
+    4300084: 7_f012014light013_1_0_0
+    4300086: 7_f012014light01_1_0_0
+    4300088: 5_+Material3768(1).Material3768(1)_1_0_0
+    4300090: '5_+Shape-Cube #2.Mesh1_0.1_0_0'
+    4300092: 5_f012014shelf01_1_0_0.001
+    9500000: //RootNode
+    13700000: Body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_+Material3768(1).Material3768(1)_1_0_0
+    second: {fileID: 2100000, guid: 45060385b77963042855fd2ff1f099a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '5_+Shape-Cube #2.Mesh1_0.1_0_0'
+    second: {fileID: 2100000, guid: fe8d99731d9306649ac628d01e0242d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f002007umbrellaa_1_0_0
+    second: {fileID: 2100000, guid: e876d47482a91c74db9dbe754ebe5aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f009004towel01_1_0_0
+    second: {fileID: 2100000, guid: c337c82a1195fee4ea12f429ab41229b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014art01_1_0_0
+    second: {fileID: 2100000, guid: d325018cb8c81594f9190aa885cffa4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014book01_1_0_0
+    second: {fileID: 2100000, guid: 55bc21be6604a4647a67c31cac6253d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014door01_1_0_0
+    second: {fileID: 2100000, guid: 17e9c61d4156428458713a65b3cad614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014door01gr_1_0_0
+    second: {fileID: 2100000, guid: ae69045d0d298ae4aada08a0e4ad9c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014door02_1_0_0
+    second: {fileID: 2100000, guid: 41c38b306c077e4489c4ef90fa3c57c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014door03_1_0_0
+    second: {fileID: 2100000, guid: 021d25567ed7e134e91c4bf6c55a2b54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014door03gr_1_0_0
+    second: {fileID: 2100000, guid: 867b71f2c4f86fd40ae2d8327c3a2c78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014flog01_1_0_0
+    second: {fileID: 2100000, guid: 45ca26322ac5e0e439f13d5292d2ab7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014floor01(1)_1_0_0
+    second: {fileID: 2100000, guid: fdca0fc3f64581b49b5729a15a78f025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014floor01_1_0_0
+    second: {fileID: 2100000, guid: 271124b3433f84e4ab5a52e4caefa202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014floor02_1_0_0
+    second: {fileID: 2100000, guid: 61fc5454dea0bcf4a9ac4cab8f4661dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014floor02sh(1)_1_0_0
+    second: {fileID: 2100000, guid: eca97736ae6001849a3b8ca18fca386a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014floor02sh_1_0_0
+    second: {fileID: 2100000, guid: b0a24a0a6c38f9e499befbf9df4542f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014floor03_1_0_0
+    second: {fileID: 2100000, guid: 14a9663bfb878be409e881d38e585a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014fusuma01_1_0_0
+    second: {fileID: 2100000, guid: 67f505c47c667934db8b65df36bf0ed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014fusuma02_1_0_0
+    second: {fileID: 2100000, guid: bdb67972e798ed740b62cc803b028607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014glass01_1_0_0
+    second: {fileID: 2100000, guid: 4f866949421dde243b309508b2373e07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014hat01(1)_1_0_0
+    second: {fileID: 2100000, guid: 4ff5a4987f67b354d819c18ca5b7aeeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014hat01_1_0_0
+    second: {fileID: 2100000, guid: abba528c554bce04b9d4d41cdba2daaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014pillar01_1_0_0
+    second: {fileID: 2100000, guid: 4950d7abd73a3fa4dbcfda55c69731d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014roof01_1_0_0
+    second: {fileID: 2100000, guid: 5fb986b6aced9354ea0c4b2cc448bdac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014shelf01_1_0_0
+    second: {fileID: 2100000, guid: 2ea3b060a0efb9f44b0389c0dbcfa8e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014shelf01c_1_0_0
+    second: {fileID: 2100000, guid: 1c38587fae1d8894c8268bbb1e88342b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014shelf01sh_1_0_0
+    second: {fileID: 2100000, guid: 0d267eebba6e99b4ebe4f7b97e93797e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014slipper01(1)_1_0_0
+    second: {fileID: 2100000, guid: 90de4fd3eb55a3e48a03ce8c73e0fb77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014slipper01(2)_1_0_0
+    second: {fileID: 2100000, guid: 11ed05e0f9919874697ca2d31778a1b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014slipper01(3)_1_0_0
+    second: {fileID: 2100000, guid: ce80a89d1262f32419e11320f56ff533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014slipper01_1_0_0
+    second: {fileID: 2100000, guid: 822062d56188b3f4189618a9bf183658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014stairs01_1_0_0
+    second: {fileID: 2100000, guid: c3f58fd40be2f8b41991270c78ca2188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014stairs01sh_1_0_0
+    second: {fileID: 2100000, guid: 5d8572dc7fcc60b408d8dc25f224338e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014swich01(1)_1_0_0
+    second: {fileID: 2100000, guid: 0a0e7678d81b34349bc8248f26a0ecc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014swich01(2)_1_0_0
+    second: {fileID: 2100000, guid: fcdee158b84415643a9ec234c3e12640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014swich01_1_0_0
+    second: {fileID: 2100000, guid: 174a1d0300909064eba0998f574d5831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014torch01_1_0_0
+    second: {fileID: 2100000, guid: 1fcb67789a5ad7645b9c4819c9e43852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014umbrella02_1_0_0
+    second: {fileID: 2100000, guid: 2b429846135943d4cb1af1e7b2572de7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014umbrella03_1_0_0
+    second: {fileID: 2100000, guid: d5efb72fcdd339648a30b34ff0ad0897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014umbrella_1_0_0
+    second: {fileID: 2100000, guid: c8b75ff34ba834740a896bc55993e66a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_f012014wall01_1_0_0
+    second: {fileID: 2100000, guid: a82bb96580401ac459df584d3c706b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_f012014light012_1_0_0
+    second: {fileID: 2100000, guid: d8c1962ba13007b40baf607e8a185822, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_f012014light013_1_0_0
+    second: {fileID: 2100000, guid: 555786a9aa88fc541964fff1ac654ae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_f012014light01_1_0_0
+    second: {fileID: 2100000, guid: 4795e3dd9876cdc48be2bf8c2101eb0b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dry_Wall
+    second: {fileID: 2800000, guid: 78fda1069782aad4cb41d9ff2cd7d02e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: diff_null_Material3768(1)
+    second: {fileID: 2800000, guid: 59743a10d9ef6234594df7c162def95c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_art01
+    second: {fileID: 2800000, guid: 3ea2d0b2e06ba554db179648f301f478, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_book01
+    second: {fileID: 2800000, guid: 7aa2e838fcd4418498e03721ddc4b52f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_door01
+    second: {fileID: 2800000, guid: a756e1bb9cbe8d445b1f668a926f3ddd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_door02
+    second: {fileID: 2800000, guid: 33b417d670b2b6641aff977ff8c225bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_door03
+    second: {fileID: 2800000, guid: ad793a6503b5f3040ab369b6de85ff28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_flog01
+    second: {fileID: 2800000, guid: f43c855640c18824ab15160e90a99638, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_floor01
+    second: {fileID: 2800000, guid: 017bc2aed9cec4148b6af70a0596f175, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_floor02
+    second: {fileID: 2800000, guid: 522a98d058a19f845be56fad919b5e04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_floor03
+    second: {fileID: 2800000, guid: 2ca61c36b270cad4dbed36ec59c99c49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_fusuma01
+    second: {fileID: 2800000, guid: 19da2218453f9cd48aa5fc8ef2ddf797, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_fusuma02
+    second: {fileID: 2800000, guid: 8e4472e09bbf06d44bf1240e0ebf3f45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_glass01
+    second: {fileID: 2800000, guid: 83818a3b967bb274faa3ecb1570f2c1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_hat01
+    second: {fileID: 2800000, guid: 26087fedc8a91ed4194c94b8689b72b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_light01
+    second: {fileID: 2800000, guid: c1f0903b9ad77da41a79590a1633c5a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_mat01
+    second: {fileID: 2800000, guid: 1012e4df95a70434d9498625f4253050, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_pillar01
+    second: {fileID: 2800000, guid: fce68f1465b83d1459409e80f1d6508e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_roof01
+    second: {fileID: 2800000, guid: da87628e11a7c814f8934596b8f45c5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_shelf01
+    second: {fileID: 2800000, guid: 30d9ceb2f520fa847bef5fc3fda03033, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_slipper01
+    second: {fileID: 2800000, guid: e2c6f117f09a44e4f9a153f39352d757, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_stairs01
+    second: {fileID: 2800000, guid: 198e7bae2b6851a4da9307954ec777f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_swich01
+    second: {fileID: 2800000, guid: 669d997686523af4eb2eb656a508e195, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_torch01
+    second: {fileID: 2800000, guid: 2b83b550ceeaa384daeb3f0a39de2b98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_umbrella
+    second: {fileID: 2800000, guid: fe64128b81919f24dbbfbc4a257e3d07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_umbrella02
+    second: {fileID: 2800000, guid: 813f529be6fc30a4db5238a4c4ad732d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_umbrella03
+    second: {fileID: 2800000, guid: 5ad703515cef26a4a8dd6fee3651b05f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f012_014_wall01
+    second: {fileID: 2800000, guid: 1659eee3de5966e4698e1d6aa6e34743, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
